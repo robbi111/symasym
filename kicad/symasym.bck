@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N5401
+D 150V Vce, 600mA Ic, PNP, Amplifier Transistor, TO-92
+K PNP Transistor
+F https://www.onsemi.com/pub/Collateral/2N5401-D.PDF
+$ENDCMP
+#
+$CMP 2N5551
+D 160V Vce, 600mA Ic, NPN, Amplifier Transistor, TO-92
+K NPN Transistor
+F http://www.onsemi.com/pub/Collateral/2N5550-D.PDF
+$ENDCMP
+#
+$CMP BC546B
+D 65V Vce, 100mA Ic, NPN, Amplifier Transistor, TO-92
+K NPN Transistor
+F https://www.onsemi.com/pub/Collateral/BC546-D.PDF
+$ENDCMP
+#
+$CMP BD139
+D 80V Vce, 1.5A Ic, NPN, Low Voltage Transistor, SOT-32
+K NPN Transistor
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/25/1f/cf/0d/03/ad/4e/06/CD00001225.pdf/files/CD00001225.pdf/jcr:content/translations/en.CD00001225.pdf
+$ENDCMP
+#
+$CMP MJE15030
+D 150V Vce, 8A Ic, NPN, Power Transistor, TO-220
+K NPN Transistor
+F http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF
+$ENDCMP
+#
+$CMP MJE15031
+D 150V Vce, 8A Ic, PNP, Power Transistor, TO-220
+K PNP Power Transistor
+F http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF
+$ENDCMP
+#
+$CMP MJL1302A
+D Bipolar Power Transistor, PNP, 15 A, 260 V, 200 Watt
+K PNP Transistor
+F http://www.onsemi.com/pub/Collateral/MJL3281A-D.PDF
+$ENDCMP
+#
+$CMP MJL3281A
+D 260V Vce, 15A Ic, NPN, Power Transistor, TO-264
+K NPN Transistor
+F https://www.onsemi.com/pub/Collateral/MJL3281A-D.PDF
+$ENDCMP
+#
+$CMP MPSA18
+D 45V Vce, 200mA Ic, NPN, General Purpose Transistor, TO-92
+K NPN Transistor
+F https://www.onsemi.com/pub/Collateral/MPSA18-D.PDF
+$ENDCMP
+#
+#End Doc Library
